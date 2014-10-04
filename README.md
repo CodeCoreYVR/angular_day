@@ -2,22 +2,7 @@
 
 ## Setup
 
-```
-gem install compass
-npm install -g bower
-npm install -g grunt-cli
-npm install
-bower install
-grunt serve
-```
-[angular docs](https://docs.angularjs.org/api) |
-[promises](https://egghead.io/lessons/angularjs-promises) | [angular
-sprinkles](https://github.com/BrewhouseTeam/angular_sprinkles)   
-Angular started in 2009, was originally a Google project. Google made it
-an official project, because he was able to rewrite one of Google's
-projects from 17,000 lines of code, to 2000.  
-  
-Let's get started by getting setup. Make sure you have [Node
+Make sure you have [Node
 installed](http://nodejs.org/download/), then open up a terimnal and
 type the following commands:  
 ```shell
@@ -30,6 +15,14 @@ bower install
 grunt install
 grunt serve
 ```  
+
+[angular docs](https://docs.angularjs.org/api) |
+[promises](https://egghead.io/lessons/angularjs-promises) | [angular
+sprinkles](https://github.com/BrewhouseTeam/angular_sprinkles)   
+Angular started in 2009, was originally a Google project. Google made it
+an official project, because he was able to rewrite one of Google's
+projects from 17,000 lines of code, to 2000.  
+  
 Angular is a framework for your JavaScript, just like Ruby on Rails is a
 framework for writing a Ruby HTTP Server. Angular is sort of the same
 thing, but for the front end for your JavaScript. It follows
